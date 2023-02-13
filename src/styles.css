@@ -1,0 +1,58 @@
+.App {
+  position: relative;
+  height: 50em;
+  background-color: #1c8ef9;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.card {
+  background: #fff;
+  border-radius: 7px;
+  /* box-shadow: 0 2px 5px #ccc; */
+  padding: 20px;
+  width: 450px;
+  height: 530px;
+  margin-top: 40px;
+  margin-left: 400px;
+  float: left;
+}
+.hey {
+  position: absolute;
+  bottom: 0;
+  background-color: skyblue;
+  width: 100%;
+}
+.label {
+  font-size: 15px;
+  font-weight: bold;
+}
+h2 {
+  margin-top: 10px;
+  text-align: center;
+}
+.input {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+.Fname,
+.Lname,
+.email,
+.password {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.button {
+  width: 90%;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+a {
+  text-decoration: none;
+}
+.para {
+  text-align: right;
+}
